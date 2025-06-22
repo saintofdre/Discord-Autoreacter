@@ -1,2 +1,2 @@
 # Discord-Autoreacter
-Automatically reacts to your messages.
+Automatically reacts to your messages through your Account.
